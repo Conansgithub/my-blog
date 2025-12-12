@@ -1,4 +1,4 @@
-baseURL = 'https://lonyon.blog.io/'
+baseURL = 'https://blog.lonyon.top/'
 languageCode = 'zh-cn'
 title = '技术成长之路'
 theme = "PaperMod"
