@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 技术成长之路</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 技术成长之路</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 12 Dec 2025 15:56:50 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 12 Dec 2025 15:56:50 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;22年毕业至今已经三年多了，感觉自己浑浑噩噩没有什么进步，从winform到现在使用go，好像什么都会，又好像什么都不会，开个博客记录一下自己的学习。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

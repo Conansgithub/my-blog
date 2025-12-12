@@ -1,0 +1,16 @@
+baseURL = 'https://lonyon.blog.io/'
+languageCode = 'zh-cn'
+title = '技术成长之路'
+theme = "PaperMod"
+
+[params]
+    # 这一行很重要，设置默认列表页为 main
+    defaultTheme = "auto"
+
+# 这一段决定了首页显示什么
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
